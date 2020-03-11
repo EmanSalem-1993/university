@@ -1,0 +1,201 @@
+ body{
+ 	
+ 	font-family: 'Lato', sans-serif;
+ 	color: #505962;
+ 	font-weight: 100;
+ 	color:grey;
+ 	line-height: 2rem;
+ 	margin: 0;
+ 	
+
+ }
+ /*Navagation*/
+ .navbar{
+ 	background-color: #fff !important;}
+
+ .navbar.navbar-brand{
+ 	position: absolute;
+ 	top: 10rem;
+ 	left: 2rem;
+ 	
+ }
+ 
+ 	
+ 
+ .caption{
+ 	width: 100%;
+ 	max-width: 100%;
+ 	position: absolute;
+ 	top:52%;
+ 	z-index: 1;
+ 	color: white;
+
+
+ }
+ .col h1{
+ 	color: #00bfff;
+
+ }
+ .col{
+ 	margin: 2rem;
+ 	margin-top: 5rem;
+ 	margin-left: 5rem;
+
+ }
+
+ .col p{
+ 	padding-top:1.7rem;
+ 	text-align: justify;
+ }
+ .col button{
+ 	margin-top: 2.5rem;
+ 	text-align: center;
+ } 
+ 
+ 
+
+ .bg{
+ 	background-color:#ccc;  
+ }
+ h1{
+ 	color: #11cbd7;
+ 	font-weight: 300;
+ }
+ 
+ 	
+ .btn-lg{background-color: #11cbd7;
+
+ border: none;
+
+ }
+ 
+ .green{
+ 	background-color:green;
+ }
+ .grey{
+ 	background-color:#ccc;  
+ 
+ }
+ .blog{
+ 	padding-top: 5.5rem;
+ 	padding-bottom: 4rem;
+ }
+
+ }
+ .oo{
+ 	font-weight: 500;
+ }
+ .beforend{
+ 	margin-bottom: 7rem;
+ 	margin-top: 5.5rem;
+ }
+.h2{
+	word-spacing: .5rem;
+}
+.white{
+	font-weight: 100;
+}
+.bb{
+	background-color: #00bfff;
+	
+}
+.uy{
+	letter-spacing: .4rem;
+	margin-left: 8rem;
+	font-weight: 300;
+	color: #000 !important;
+}
+.login{
+	color: #00bfff;
+	padding: 0 .5rem;
+}
+.light{
+	font-size: 1rem ;
+	font-weight: normal;
+
+}
+.button{
+	color:#11cbd7; 
+}
+
+
+.img-fluid{
+	width: 90rem;
+	height: 20rem;
+}
+.one{
+	line-height: 2rem;
+}
+ .fa-graduation-cap{
+ 	width: 5rem;
+ 	height: 5rem !important;
+ }
+ .imggirl{
+ 	width: 33rem;
+ 	height: 33rem;
+ }
+ .num{
+ 	padding-top:5.7rem;
+ }
+ .pad{
+ 	padding-left: 7rem;
+ }
+ .bold{
+ 	font-weight: 400;
+ }
+ .light{
+ 	font-weight: 30;
+ 	opacity: .5;
+ 	letter-spacing: .1rem;
+
+ }
+ .vedio{
+ 	max-width: 100%;
+ 	height: auto;
+ }
+ .bl{
+ 	color: #000;
+ }
+ 
+ .wh{width: 69%;
+ 	height: 20%;
+
+
+ }
+ .ll{
+ 	width: 90%;
+ }
+ .bgg{
+ 	background-color: #11cbd7;
+ }
+ .iconimage{
+ 	width: 35%;
+ 	height: 35%;
+ }
+ .d{
+ 	color: #11cbd7;
+ }
+.hhh{
+	color: grey;
+	font-size: .8rem;
+	font-weight: 100;
+
+}
+.pp{
+	padding-bottom: 6rem;
+}
+.jj{
+	padding-top: 2rem;
+}
+.ee{
+	display: inline;
+}
+.xx{
+	display:block;
+}
+.mm{
+	text-decoration: line-through;
+}
+.navbar-light .navbar-brand .nav-link{
+	color: #000;
+}
